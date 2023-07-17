@@ -5,6 +5,9 @@
 Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
 Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici!
 
+**BONUS**
+Predisponi
+
 ## ISTRUZIONI
 
 - Prendo il pacchetto di figurine
@@ -17,3 +20,13 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
     - La metto nel mazzo di scambio
   - **ALTRIMENTI**
     - L'attacco nell'album
+- **_BONUS_**
+
+- **SE** è sabato **E** il mazzo di scambio **NON** è vuoto
+  - incontro il mio amico
+  - prendo in considerazione il mazzo del mio amico
+  - **PER OGNI** figurina del mazzo di scambio del mio amico
+    - **SE** non è presente nel mio album
+      - passo alla prossima
+    - **ALTRIMENTI**
+      - chiedo lo scambio con una del mio mazzo
